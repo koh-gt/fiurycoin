@@ -1,6 +1,6 @@
-<h1>FiuryCoin Unleached [FIURY]</h1>
+<h1>Fiurycoin Unleashed[FIURY]</h1>
 
-Fiurycoin is a cryptocurrency Bitcoin v0.21 fork with modified block parameters. Fiurycoin Core is an open source software that allows anyone to operate a node in the Fiurycoin blockchain network and uses the Scrypt hashing method for Proof of Work mining.
+Fiurycoin is a Bitcoin v0.21 fork with modified block parameters. Fiurycoin Core is an open source software that allows anyone to operate a node in the Fiurycoin blockchain network and uses the Scrypt algorithm for Proof of Work mining.
 
 Fiurycoin is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Fiurycoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Fiurycoin Core is the name of open source software which enables the use of this currency.
 
